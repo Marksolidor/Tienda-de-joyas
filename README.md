@@ -8,12 +8,12 @@ Integrantes
 * Yarenla Stuardo
 
 install code:
-npm init -y
-npm install
-npm install pg
-npm install express
-npm install dotenv --save
-npm i nodemon
-npm i cors
-npm i csb-inspector
-npm i pg-format
+* npm init -y
+* npm install
+* npm install pg
+* npm install express
+* npm install dotenv --save
+* npm i nodemon
+* npm i cors
+* npm i csb-inspector
+* npm i pg-format
