@@ -1,0 +1,1 @@
+//jewelsModel.js goes here
